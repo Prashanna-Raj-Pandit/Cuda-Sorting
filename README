@@ -1,0 +1,20 @@
+Group Members:
+        -----------------------------------------------------------------------------
+           Prashanna Raj Pandit        800817018              ppandit@siue.edu     
+           Asha Shah          		800817984             ashshah@siue.edu    
+           Simran Basnet    		800818370             sibasne@siue.edu     
+        -----------------------------------------------------------------------------
+
+
+Project consists of three programs 
+
+-thrust.cu 
+-singlethread.cu
+-multithread.cu
+
+To compile all file:
+        make
+        
+Codes can be executed in the following format :
+        [executable name] [amount of random nums to generate] [seed value for rand] [1 to print sorted array, 0 otherwise]
+        for example: ./multithread 180000 42 1 
